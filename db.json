@@ -34,8 +34,8 @@
         {
           "id": "yale",
           "name":"Yale University",
-        }
-      ]
+        },
+      ],
     },
     {
       "title": "Ranking",
@@ -60,7 +60,7 @@
           "id": "5",
           "name":"Other than top 200",
         },
-      ]
+      ],
     },
     {
       "title": "Major",
@@ -85,7 +85,7 @@
           "id": "5",
           "name":"History",
         },
-      ]
+      ],
     },
     {
       "title": "Year",
@@ -114,8 +114,8 @@
           "id": "6",
           "name":"2019",
         },
-      ]
-    }
+      ],
+    },
   ],
   "schools": [
     {
@@ -150,7 +150,7 @@
       "title": "title4",
       "imageUrl": "cornell"
     },
-        {
+    {
       "id":"5",
       "schoolName": "Yale University",
       "year": "2018",
