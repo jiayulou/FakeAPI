@@ -1,120 +1,120 @@
 {
-    "filter": [
+      "filter": [
     {
       "title": "School",
       "listStatus": [
         {
           "id": "stanford",
-          "name": "Stanford University",
+          "name": "Stanford University"
         },
         {
           "id": "harvard",
-          "name": "Harvard University",
+          "name": "Harvard University"
         },
         {
           "id": "cornell",
-          "name": "Cornell University",
+          "name": "Cornell University"
         },
         {
           "id": "brown",
-          "name": "Brown University",
+          "name": "Brown University"
         },
         {
           "id": "mit",
-          "name":"MIT",
+          "name":"MIT"
         },
         {
           "id":"ucb",
-          "name":"UC Berkeley",
+          "name":"UC Berkeley"
         },
         {
           "id": "ucla",
-          "name": "UCLA",
+          "name": "UCLA"
         },
         {
           "id": "yale",
-          "name":"Yale University",
-        },
-      ],
+          "name":"Yale University"
+        }
+      ]
     },
     {
       "title": "Ranking",
       "listStatus": [
         {
           "id": "1",
-          "name": "Top 20",
+          "name": "Top 20"
         },
         {
           "id": "2",
-          "name": "Top 20-50",
+          "name": "Top 20-50"
         },
         {
           "id": "3",
-          "name": "Top 50-100",
+          "name": "Top 50-100"
         },
         {
           "id": "4",
-          "name": "Top 100-200",
+          "name": "Top 100-200"
         },
         {
           "id": "5",
-          "name":"Other than top 200",
-        },
-      ],
+          "name":"Other than top 200"
+        }
+      ]
     },
     {
       "title": "Major",
       "listStatus": [
         {
           "id": "1",
-          "name": "Psychology",
+          "name": "Psychology"
         },
         {
           "id": "2",
-          "name": "Physics",
+          "name": "Physics"
         },
         {
           "id": "3",
-          "name": "Math",
+          "name": "Math"
         },
         {
           "id": "4",
-          "name": "English",
+          "name": "English"
         },
         {
           "id": "5",
-          "name":"History",
-        },
-      ],
+          "name":"History"
+        }
+      ]
     },
     {
       "title": "Year",
       "listStatus": [
         {
           "id": "1",
-          "name": "2014",
+          "name": "2014"
         },
         {
           "id": "2",
-          "name": "2015",
+          "name": "2015"
         },
         {
           "id": "3",
-          "name": "2016",
+          "name": "2016"
         },
         {
           "id": "4",
-          "name": "2017",
+          "name": "2017"
         },
         {
           "id": "5",
-          "name":"2018",
+          "name":"2018"
         },
         {
           "id": "6",
-          "name":"2019",
-        },
-      ],
-    },
-  ],
+          "name":"2019"
+        }
+      ]
+    }
+  ]
 }
