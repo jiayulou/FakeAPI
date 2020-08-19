@@ -183,11 +183,11 @@
             "title": "title8",
             "imageUrl": "nyu"
           }
-      ]
-  },
-  "totalPageNumbers": 26,
-  "nextPage": {
-      "size": 12,
-      "offset": 1
+      ],
+      "totalPageNumbers": 26,
+      "nextPage": {
+          "size": 12,
+          "offset": 1
+      }
   }
 }
