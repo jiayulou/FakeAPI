@@ -41,23 +41,23 @@
       "title": "Ranking",
       "listStatus": [
         {
-          "id": "1",
+          "id": "top_20",
           "name": "Top 20"
         },
         {
-          "id": "2",
+          "id": "top_20-50",
           "name": "Top 20-50"
         },
         {
-          "id": "3",
+          "id": "top_50-100",
           "name": "Top 50-100"
         },
         {
-          "id": "4",
+          "id": "top_100-200",
           "name": "Top 100-200"
         },
         {
-          "id": "5",
+          "id": "others",
           "name":"Other than top 200"
         }
       ]
@@ -66,23 +66,23 @@
       "title": "Major",
       "listStatus": [
         {
-          "id": "1",
+          "id": "psychology",
           "name": "Psychology"
         },
         {
-          "id": "2",
+          "id": "physics",
           "name": "Physics"
         },
         {
-          "id": "3",
+          "id": "math",
           "name": "Math"
         },
         {
-          "id": "4",
+          "id": "english",
           "name": "English"
         },
         {
-          "id": "5",
+          "id": "history",
           "name":"History"
         }
       ]
@@ -91,27 +91,27 @@
       "title": "Year",
       "listStatus": [
         {
-          "id": "1",
+          "id": "2014",
           "name": "2014"
         },
         {
-          "id": "2",
+          "id": "2015",
           "name": "2015"
         },
         {
-          "id": "3",
+          "id": "2016",
           "name": "2016"
         },
         {
-          "id": "4",
+          "id": "2017",
           "name": "2017"
         },
         {
-          "id": "5",
+          "id": "2018",
           "name":"2018"
         },
         {
-          "id": "6",
+          "id": "2019",
           "name":"2019"
         }
       ]
