@@ -117,6 +117,80 @@
       ]
     }
   ],
+  "profiles": [
+          {
+            "id":1,
+            "schoolName": "Stanford University",
+            "year": "2018",
+            "major": "Psychology",
+            "title": "title",
+            "imageUrl": "stanford",
+            "saved": true
+          },
+          {
+            "id":2,
+            "schoolName": "Harvard University",
+            "year": "2016",
+            "major": "Physics",
+            "title": "title",
+            "imageUrl": "harvard",
+            "saved": false
+          },
+          {
+            "id":3,
+            "schoolName": "MIT",
+            "year": "2019",
+            "major": "Math",
+            "title": "title3",
+            "imageUrl": "mit",
+            "saved": true
+          },
+          {
+            "id":4,
+            "schoolName": "Cornell University",
+            "year": "2020",
+            "major": "Economics",
+            "title": "title4",
+            "imageUrl": "cornell",
+            "saved": false
+          },
+          {
+            "id":5,
+            "schoolName": "Yale University",
+            "year": "2018",
+            "major": "Psychology",
+            "title": "title5",
+            "imageUrl": "yale",
+            "saved": false
+          },
+          {
+            "id":6,
+            "schoolName": "Princeton University",
+            "year": "2016",
+            "major": "Computer Science",
+            "title": "title6",
+            "imageUrl": "princeton",
+            "saved": false
+          },
+          {
+            "id":7,
+            "schoolName": "Columbia University",
+            "year": "2019",
+            "major": "Math",
+            "title": "title7",
+            "imageUrl": "columbia",
+            "saved": false
+          },
+          {
+            "id":8,
+            "schoolName": "New York University",
+            "year": "2020",
+            "major": "Economics",
+            "title": "title8",
+            "imageUrl": "nyu",
+            "saved": false
+          }
+  ],
   "schools": {
       "schools": [
           {
